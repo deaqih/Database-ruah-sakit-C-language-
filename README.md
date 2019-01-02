@@ -13,6 +13,7 @@ Pada bagian ini user akan memilih input data baru atau data lama.
 ### Menu Help
 
 ### Menu Informasi
+https://github.com/filacernb/proglan/blob/master/Screenshot%20(2).png
 
 ### Menu Mengambil Antrian
 
