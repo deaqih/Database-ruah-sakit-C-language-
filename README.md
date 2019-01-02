@@ -6,6 +6,8 @@ Database pasien ini adalah program yang menggunakan bahasa C yang digunakan untu
 ## Tampilan Program
 
 ### Menu Awal
+![image](https://user-images.githubusercontent.com/46293986/50581238-7d2eb700-0e8a-11e9-975f-ee3b0ba51193.png)
+
 
 ### Menu Input data
 Pada bagian ini user akan memilih input data baru atau data lama.
