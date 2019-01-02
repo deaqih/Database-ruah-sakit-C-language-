@@ -18,9 +18,12 @@ Pada bagian ini user akan memilih input data baru atau data lama.
 
 
 ### Menu Help
+![image](https://user-images.githubusercontent.com/46293986/50581316-3d1c0400-0e8b-11e9-9705-7f1cb076f19b.png)
+
 
 ### Menu Informasi
-https://github.com/filacernb/proglan/blob/master/Screenshot%20(2).png
+![image](https://user-images.githubusercontent.com/46293986/50581303-1bbb1800-0e8b-11e9-9f7f-5ec8272b8965.png)
+
 
 ### Menu Mengambil Antrian
 
