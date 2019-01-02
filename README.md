@@ -26,5 +26,12 @@ Pada bagian ini user akan memilih input data baru atau data lama.
 
 
 ### Menu Mengambil Antrian
+![image](https://user-images.githubusercontent.com/46293986/50581405-fed31480-0e8b-11e9-8e43-21c21ac9f37b.png)
+
+### Menu Melihat Antrian
+![image](https://user-images.githubusercontent.com/46293986/50581424-27f3a500-0e8c-11e9-83a6-482e91ab90ed.png)
+
 
 ### Flowchart Program
+![image](https://user-images.githubusercontent.com/46293986/50581384-c7646800-0e8b-11e9-864a-6966cc12aafa.png)
+
