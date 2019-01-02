@@ -1,4 +1,4 @@
 # Database Pasien Rumah Sakit
 
 # Description
-Program ini merupakan program yang berfungsi untuk menyimpan database pasien rumah sakit.
+Database pasien ini adalah program yang menggunakan bahasa C yang digunakan untuk menyimpan data pasien rumah sakit dalam bentuk format Doc. Program ini juga dapat membuat antrian pasien rumah sakit.
