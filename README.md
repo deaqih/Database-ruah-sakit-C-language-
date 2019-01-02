@@ -13,6 +13,11 @@ Database pasien ini adalah program yang menggunakan bahasa C yang digunakan untu
 Pada bagian ini user akan memilih input data baru atau data lama.
 ![image](https://user-images.githubusercontent.com/46293986/50581256-aa7b6500-0e8a-11e9-8b13-87186debe786.png)
 
+### Menu Menyimpan Database ke Doc
+
+![image](https://user-images.githubusercontent.com/46293986/50581489-bcf69e00-0e8c-11e9-9e9a-06796e622797.png)
+
+
 ### Menu Input Data Rawat Jalan
 ![image](https://user-images.githubusercontent.com/46293986/50581279-e8788900-0e8a-11e9-8668-32f82b3a39f0.png)
 
