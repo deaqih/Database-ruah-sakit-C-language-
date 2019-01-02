@@ -6,3 +6,14 @@ Database pasien ini adalah program yang menggunakan bahasa C yang digunakan untu
 ## Tampilan Program
 
 ### Menu Awal
+
+### Menu Input data
+Pada bagian ini user akan memilih input data baru atau data lama.
+
+### Menu Help
+
+### Menu Informasi
+
+### Menu Mengambil Antrian
+
+### Flowchart Program
